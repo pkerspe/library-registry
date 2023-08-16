@@ -6117,4 +6117,5 @@ https://github.com/epsilonrt/pImpl
 https://github.com/iory/i2c-for-esp32
 https://github.com/abcdaaaaaaaaa/MQSpaceData.h
 https://github.com/casiez/OneEuroFilterArduino
+https://github.com/pkerspe/ESP-IntelHex-Parser
 https://github.com/pkerspe/ESP-UARTArduinoFirmwareUpdate
